@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# WizTricks07
+Helpful things for OSRS!
